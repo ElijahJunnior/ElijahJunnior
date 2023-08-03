@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on GO2 Sistemas
+- 📫 How to reach me: elias-jr@ej-dev.com
 - 💬 Ask me about React Js, Node Js, Java Script, HTML, CSS, C#
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: elijah.junnior@outlook.com
+- 🔭 I’m currently working on GO2 Sistemas
